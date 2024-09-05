@@ -50,7 +50,7 @@ To run the Grades Catalog application locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YourUsername/Programming-Fundamentals.git
+   git clone https://github.com/BiancaM30/Programming-Fundamentals.git
    cd Programming-Fundamentals/grades-catalog
 
 2. **Install Dependencies**: Ensure you have Python installed (version 3.6 or higher). Install required packages:
@@ -96,7 +96,7 @@ Travel Package: Each travel package is defined by a start date, end date, destin
 To run the Travel Agency application locally:
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YourUsername/Programming-Fundamentals.git
+   git clone https://github.com/BiancaM30/Programming-Fundamentals.git
    cd Programming-Fundamentals/travel-agency
 
 

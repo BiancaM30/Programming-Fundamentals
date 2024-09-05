@@ -1,0 +1,97 @@
+def initializare_dictionar(dictionar):
+    """Functia initializeaza dictionarul cu 10 pachete de calatorie, folosindu-ne de acesta in functiile de testare 
+    Date de intrare: dictionar(dict)
+    Date de iesire: - """
+    
+    dictionar.update ({
+                 "1": {"zi_inceput": "13",
+                       "luna_inceput": "4",
+                       "an_inceput": "2021",
+                       "zi_sfarsit": "20",
+                       "luna_sfarsit": "4",
+                       "an_sfarsit": "2021",
+                       "destinatie": "barcelona",
+                       "pret": "2300"
+                       },
+                 "2": {"zi_inceput": "23",
+                       "luna_inceput": "7",
+                       "an_inceput": "2021",
+                       "zi_sfarsit": "30",
+                       "luna_sfarsit": "7",
+                       "an_sfarsit": "2021",
+                       "destinatie": "lisabona",
+                       "pret": "1800"
+                       },
+                 "3": {"zi_inceput": "8",
+                       "luna_inceput": "11",
+                       "an_inceput": "2020",
+                       "zi_sfarsit": "15",
+                       "luna_sfarsit": "11",
+                       "an_sfarsit": "2020",
+                       "destinatie": "barcelona",
+                       "pret": "2100"
+                       },
+                 "4": {"zi_inceput": "10",
+                       "luna_inceput": "12",
+                       "an_inceput": "2020",
+                       "zi_sfarsit": "23",
+                       "luna_sfarsit": "12",
+                       "an_sfarsit": "2020",
+                       "destinatie": "londra",
+                       "pret": "3100"
+                       },
+                 "5": {"zi_inceput": "25",
+                       "luna_inceput": "7",
+                       "an_inceput": "2021",
+                       "zi_sfarsit": "30",
+                       "luna_sfarsit": "7",
+                       "an_sfarsit": "2021",
+                       "destinatie": "paris",
+                       "pret": "1100"
+                       },
+                 "6": {"zi_inceput": "19",
+                       "luna_inceput": "1",
+                       "an_inceput": "2021",
+                       "zi_sfarsit": "27",
+                       "luna_sfarsit": "1",
+                       "an_sfarsit": "2021",
+                       "destinatie": "lisabona",
+                       "pret": "2300"
+                       },
+                 "7": {"zi_inceput": "2",
+                       "luna_inceput": "2",
+                       "an_inceput": "2021",
+                       "zi_sfarsit": "15",
+                       "luna_sfarsit": "2",
+                       "an_sfarsit": "2021",
+                       "destinatie": "budapesta",
+                       "pret": "2250"
+                       },
+                 "8": {"zi_inceput": "23",
+                       "luna_inceput": "3",
+                       "an_inceput": "2021",
+                       "zi_sfarsit": "29",
+                       "luna_sfarsit": "3",
+                       "an_sfarsit": "2021",
+                       "destinatie": "barcelona",
+                       "pret": "1700"
+                       },
+                 "9": {"zi_inceput": "14",
+                       "luna_inceput": "6",
+                       "an_inceput": "2021",
+                       "zi_sfarsit": "23",
+                       "luna_sfarsit": "6",
+                       "an_sfarsit": "2021",
+                       "destinatie": "lisabona",
+                       "pret": "1800"
+                       },
+                 "10": {"zi_inceput": "4",
+                       "luna_inceput": "6",
+                       "an_inceput": "2021",
+                       "zi_sfarsit": "10",
+                       "luna_sfarsit": "6",
+                       "an_sfarsit": "2021",
+                       "destinatie": "londra",
+                       "pret": "950"
+                       }
+                })
